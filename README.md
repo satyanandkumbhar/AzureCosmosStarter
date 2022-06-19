@@ -1,0 +1,2 @@
+# AzureCosmosStarter
+Cosmos DB Starter
