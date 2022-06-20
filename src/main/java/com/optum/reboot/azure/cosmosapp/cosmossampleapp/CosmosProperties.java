@@ -1,4 +1,4 @@
-package com.optum.reboot.azure.cosmosapp.cosmossampleapp.config;
+package com.optum.reboot.azure.cosmosapp.cosmossampleapp;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
