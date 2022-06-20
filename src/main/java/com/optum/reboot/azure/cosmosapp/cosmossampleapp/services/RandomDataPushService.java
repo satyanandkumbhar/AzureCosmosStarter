@@ -20,7 +20,7 @@ public class RandomDataPushService {
     private EmployeeRepository employeeRepository;
 
     public void pushData() {
-        IntStream.range(0, 1000000)
+        IntStream.range(0, 10000)
                 .boxed()
                 .parallel()
                 .map( i -> getEmployee())
